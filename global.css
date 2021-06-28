@@ -29,6 +29,8 @@ section .section-content > * {
   margin-bottom: 1.5rem;
 }
 
+/* here's a new comment */
+
 section h1 {
   font-weight: 700;
   font-size: 3rem;
